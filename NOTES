@@ -1,0 +1,12 @@
+1. Plan your gem, imagine your interface.
+Which episode would you like details on?
+2. Project structure
+3. Entry point - the file run
+4. Force that to build CLI
+5. Sub out the interface
+6. start making things real
+7. Discover objects
+8. Program
+
+A CLI for codenewbie episodes
+Shows list of episodes
