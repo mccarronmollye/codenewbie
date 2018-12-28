@@ -1,5 +1,5 @@
 
-Our CLI Controller
+#Our CLI Controller
 class Codenewbie::CLI
 
   def call
