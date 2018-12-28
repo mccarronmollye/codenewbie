@@ -1,6 +1,6 @@
-require "codenewbie/version"
-
-module Codenewbie
-  class Error < StandardError; end
-  # Your code goes here...
-end
+require "pry" #loadpath
+require "nokogiri"
+require "open-uri"
+require_relative 'codenewbie/version' #relative to the file directory
+require_relative 'codenewbie/cli'
+require_relative 'codenewbie/episode'
