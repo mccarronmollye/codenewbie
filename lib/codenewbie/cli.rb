@@ -3,7 +3,7 @@
 class Codenewbie::CLI
 
   def call
-    puts "List of Codenewbie Episodes!"
+    puts "List of Codenewbie Episodes! (test)"
     list_episodes
   end
 
